@@ -1,4 +1,8 @@
 LEDTree
+
+Maksim Dragun
 =======
 
-LED Tree
+AVR project for LED tree
+
+
