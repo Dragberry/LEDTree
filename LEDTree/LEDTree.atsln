@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "LEDTree", "LEDTree\LEDTree.cproj", "{F97A4259-BA51-4F2E-8A98-A5A28C61C756}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F97A4259-BA51-4F2E-8A98-A5A28C61C756}.Debug|AVR.ActiveCfg = Debug|AVR
+		{F97A4259-BA51-4F2E-8A98-A5A28C61C756}.Debug|AVR.Build.0 = Debug|AVR
+		{F97A4259-BA51-4F2E-8A98-A5A28C61C756}.Release|AVR.ActiveCfg = Release|AVR
+		{F97A4259-BA51-4F2E-8A98-A5A28C61C756}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
